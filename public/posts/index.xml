@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Hyde</title>
+      <link>http://localhost:1313/posts/introducing-hyde/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/introducing-hyde/</guid>
+      <description>&lt;p&gt;Hyde is a brazen two-column &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt; theme based on the &lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; theme of the same name.&#xA;It pairs a prominent sidebar with uncomplicated content.&lt;/p&gt;&#xA;&lt;h3 id=&#34;hyde-features&#34;&gt;Hyde features&lt;/h3&gt;&#xA;&lt;p&gt;Hyde adds the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;&#xA;&lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&#34;https://github.com/spf13/hyde#reverse-layout&#34;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/hyde#themes&#34;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/spf13/hyde#readme&#34;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example content</title>
+      <link>http://localhost:1313/posts/example-content/</link>
+      <pubDate>Tue, 07 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/example-content/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;!-- raw HTML omitted --&gt;dis parturient montes&lt;!-- raw HTML omitted --&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What&#39;s Hugo?</title>
+      <link>http://localhost:1313/posts/whats-hugo/</link>
+      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/whats-hugo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://jekyllrb.com&#34;&gt;Hugo&lt;/a&gt; is the world’s fastest static website engine. It’s written in Go (aka Golang) and developed by &lt;a href=&#34;https://github.com/bep&#34;&gt;bep&lt;/a&gt;, &lt;a href=&#34;https://github.com/spf13&#34;&gt;spf13&lt;/a&gt; and &lt;a href=&#34;https://github.com/gohugoio/hugo/graphs/contributors&#34;&gt;friends&lt;/a&gt;. From &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/README.md&#34;&gt;the project&amp;rsquo;s readme&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hugo relies on Markdown files with front matter for metadata, and you can run Hugo from any directory. This works well for shared hosts and other systems where you don’t have a privileged account.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
