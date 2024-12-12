@@ -1,10 +1,14 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "hyde"
-title = "My New Hugo Site"
+title = "ALF e.V."
 [params]
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
-themeColor = ""
+themeColor = "theme-base-0d"
+description = "Algorithms for Lattice Fermions Association"
+
+[markup.goldmark.renderer]
+unsafe = true
