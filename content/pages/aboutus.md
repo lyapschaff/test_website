@@ -30,7 +30,7 @@ We dedicate our resources to the package's:
 The association plays an important role in, among others, the realization of ALF User Workshops (e.g., <a href="https://alfworkshop2024.sciencesconf.org/">2024 Workshop</a>), in advancing associated projects (e.g., Python interface <a href="https://git.physik.uni-wuerzburg.de/ALF/pyALF">pyALF</a> and library <a href="http://gitpages.physik.uni-wuerzburg.de/alf/hamiltonians/front.html">model Hamiltonians</a>) and in obtaining additional resources (e.g., <a href="https://unitary.fund/grants/">Unitary Fund</a>).
 <p> </p>
 
-Its staff responsibilities range from code development to community building and it is responsible for tending ALF's <a href="mailto:alf@physik.uni-wuerzburg.de?subject=ALF-eV  Membership">e-mail</a>, its <a href="https://www.youtube.com/@ALF-QMC">YouTube channel</a>, the community's <a href="https://discord.gg/VppWWEPMHa">Discord server</a> as well as the package's <a href="https://alf.physik.uni-wuerzburg.de/">website</a>.
+Its staff responsibilities range from code development to community building and it is responsible for tending ALF's <a href="mailto:tp1-alf@uni-wuerzburg.de">e-mail</a>, its <a href="https://www.youtube.com/@ALF-QMC">YouTube channel</a>, the community's <a href="https://discord.gg/VppWWEPMHa">Discord server</a> as well as the package's <a href="https://alf.physik.uni-wuerzburg.de/">website</a>.
 
 
 ### Members

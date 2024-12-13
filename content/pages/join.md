@@ -10,7 +10,7 @@ menu:
 Interested individuals and institutions can join the ALF Association and thus support and help steer ALF Project's future development.
 <p> </p>
 
-Simply send an email to alf@physik.uni-wuerzburg.de detailing:
+Simply send an email to algorithms.lattice.fermions@gmail.com detailing:
 * Name
 * Affiliation
 * Street and electronic addresses
