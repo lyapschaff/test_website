@@ -3,11 +3,11 @@ layout: page
 title: Donate
 menu:
   main:
-    weight: 2
+    weight: 3
 ---
 
 <br>
-We welcome contributions to support the development of ALF and our efforts to grow ALF's user community. Please also consider joining ALF e.V.
+We welcome contributions to support the development of ALF and our efforts to grow ALF's user community. Please also consider <a href="/pages/join">joining</a>  ALF e.V.
 
 <p> </p>
 

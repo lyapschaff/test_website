@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Join ALF e.V.
+title: Join us
 menu:
   main:
     weight: 3
 ---
 <br>
 
-Interested individuals and institutions can join the ALF Association and thus support and help steer ALF Project's future development.
+Interested individuals and institutions can become members of the ALF Association and thus support and help steer ALF Project's future development.
 <p> </p>
 
-Simply send an email to algorithms.lattice.fermions@gmail.com detailing:
+For joining simply send an email to algorithms.lattice.fermions@gmail.com detailing:
 * Name
 * Affiliation
 * Street and electronic addresses
