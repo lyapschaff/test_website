@@ -3,7 +3,7 @@ layout: page
 title: GDPR
 menu:
   main:
-    weight: 1
+    weight: 10
 ---
 
 # Datenschutz&shy;erkl&auml;rung

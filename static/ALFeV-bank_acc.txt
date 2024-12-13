@@ -1,0 +1,5 @@
+Institution: Deutsche Skatbank
+Account holder: Algorithms for Lattice Fermions (ALF) e. V.
+IBAN: DE15 8306 5408 0005 3029 60
+BIC: GENO DEF1 SLR
+Currency: EUR
